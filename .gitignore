@@ -1,3 +1,8 @@
 .DS_Store
 pkg
 out
+*.zip
+out.json
+main
+index.html
+*.png
