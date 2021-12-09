@@ -41,6 +41,8 @@ github.com/prtech-news/common v0.0.8 h1:mDqHtZ0M+Ptww1bbL4nQqvhz3Kz4+Cgz3CHUsK05
 github.com/prtech-news/common v0.0.8/go.mod h1:PxaRXB7J9MXJeqSqSR3csv39Hj3UlWCpdZll+5C+/n0=
 github.com/prtech-news/common v0.0.9 h1:nM/0dHcAQOlkimu+cydjfg7bddkEp1ppqGD91zNRO4s=
 github.com/prtech-news/common v0.0.9/go.mod h1:PxaRXB7J9MXJeqSqSR3csv39Hj3UlWCpdZll+5C+/n0=
+github.com/prtech-news/common v0.0.10 h1:3CgGCru2ZTgwMzax4VxN8Co3IvPOSXDgXFd/Qmy0nx8=
+github.com/prtech-news/common v0.0.10/go.mod h1:PxaRXB7J9MXJeqSqSR3csv39Hj3UlWCpdZll+5C+/n0=
 github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
