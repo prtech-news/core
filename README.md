@@ -21,7 +21,7 @@ debug1: Exit status 1
 ```shell
 [user]
         name = Jose Diaz
-        email = ***REMOVED***
+        email = githubemail@domain.com 
 ```
 After these steps you should be good to. Below are optional steps:
 4. (Optional) Create a github personal access
